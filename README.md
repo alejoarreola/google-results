@@ -1,1 +1,2 @@
 # google-results
+A slightly more difficult project wherein I re-create the google results page this time. My hope is to be able to take my learnings from "Google Homepage" project and implement cleaner, better html and css. I should also be able to use separate files this time as well.
